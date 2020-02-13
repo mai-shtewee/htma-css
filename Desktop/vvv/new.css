@@ -1,0 +1,152 @@
+* {}
+
+.main-content {
+    width: 800;
+    height: 300;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.myInput {
+    background-image: url('qqq.jpg');
+    border-radius: 15px;
+    background-position: 1px 1px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 0px 0px 0px 40px;
+    border: 1px solid #ddd;
+    width: 400px;
+}
+
+.b:link {
+    margin-left: 30px;
+}
+
+.fff {
+    background-color: #7CB9E8;
+}
+
+.sec {
+    margin-left: 630px;
+    margin-top: 40px;
+}
+
+.sec1 {
+    margin-left: 640px;
+}
+
+.rec {}
+
+.mm {
+    margin-left: 100px;
+}
+
+.ll {
+    margin-left: 5px;
+    margin-right: 5px;
+    float: left;
+}
+
+.lll {
+    margin-left: 0px;
+    border: 1px solid black;
+    float: left;
+}
+
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+}
+
+.kk {
+    float: right;
+}
+
+.nn {
+    float: left;
+    width: 100%;
+}
+
+.l {
+    width: 100%;
+    height: 100px;
+}
+
+.cen {
+    text-align: center;
+}
+
+.foot {
+    width: 100%;
+    height: 80px;
+}
+
+.lef {
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+footer {
+    float: left;
+    width: 100%;
+}
+
+ul {
+    font-size: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    border: 1px solid #555;
+    height: 40px;
+}
+
+li {
+    float: left;
+    border-right: 1px solid black;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 80px;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+.ip {
+    float: right;
+}
+
+.to {
+    width: 100%;
+    height: 100px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.flex-container>div {
+    background-color: white;
+    width: 250px;
+    margin: 10px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 15px;
+}
